@@ -1,0 +1,5 @@
+{
+  "name": "The Intelligent Investor Game",
+  "description": "An educational game testing your value investing skills. Compare historical financial statements of two companies and predict the 10-year winner based on Benjamin Graham's principles.",
+  "requestFramePermissions": []
+}
